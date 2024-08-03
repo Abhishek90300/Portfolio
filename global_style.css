@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: #000000eb;
+  color: aliceblue;
+  font-family: "poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
